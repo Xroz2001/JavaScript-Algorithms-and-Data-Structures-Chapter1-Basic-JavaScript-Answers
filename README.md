@@ -6,8 +6,8 @@ JavaScript is a scripting language you can use to make web pages interactive. It
 In this course, you'll learn fundamental programming concepts in JavaScript. You'll start with basic data structures like numbers and strings. Then you'll learn to work with arrays, objects, functions, loops, if/else statements, and more.
 
 **Table of Contents**
- * Comment Your JavaScript Code 
- * Declare JavaScript Variables
+ * Comment Your JavaScript Code (https://github.com/Xroz2001/JavaScript-Algorithms-and-Data-Structures-Chapter1-Basic-JavaScript-Answers/blob/Project/Comment%20Your%20JavaScript%20Code)
+ * Declare JavaScript Variables (Declare JavaScript Variables.md)
  * Storing Values with the Assignment Operator
  * Assigning the Value of One Variable to Another
  * Initializing Variables with the Assignment Operator

@@ -7,7 +7,7 @@ In this course, you'll learn fundamental programming concepts in JavaScript. You
 
 **Table of Contents**
  * Comment Your JavaScript Code (https://github.com/Xroz2001/JavaScript-Algorithms-and-Data-Structures-Chapter1-Basic-JavaScript-Answers/blob/Project/Comment%20Your%20JavaScript%20Code)
- * Declare JavaScript Variables (Declare JavaScript Variables.md)Declare JavaScript Variables
+ * Declare JavaScript Variables
  * Storing Values with the Assignment Operator
  * Assigning the Value of One Variable to Another
  * Initializing Variables with the Assignment Operator
